@@ -1,0 +1,18 @@
+#ignore folders
+old
+.ipynb_checkpoints
+
+#ignore .env file
+.env
+
+#ignore other working files
+*.txt
+*.csv
+*.png
+
+#Do Not Upload The Font File
+*.csv
+
+#ignore old ipynb files
+game_theo_01.ipynb
+game_theo_02.ipynb
